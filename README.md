@@ -15,4 +15,4 @@ python script that creates us stocks segmentation excel sheet using http://inves
 Tal Peretz
 
 ### License
-![MIT License](https://choosealicense.com/licenses/mit/)
+![MIT License](https://github.com/talperetz/us_stocks_segmentation_crawler/blob/master/LICENSE)
